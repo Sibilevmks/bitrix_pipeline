@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "source": "portfolio-placeholder",
+    "description": "Anonymized Bitrix stage catalog for portfolio use."
+  },
+  "lead": {
+    "winner": {
+      "sort": 1,
+      "code": "FAKE_LEAD_WINNER",
+      "title": "Победители / обработать"
+    },
+    "cold": {
+      "sort": 2,
+      "code": "FAKE_LEAD_COLD",
+      "title": "Холод (взять в работу)"
+    },
+    "processed": {
+      "sort": 3,
+      "code": "FAKE_LEAD_PROCESSED",
+      "title": "Потенциальный клиент"
+    },
+    "wait_deal": {
+      "sort": 4,
+      "code": "FAKE_LEAD_WAIT_DEAL",
+      "title": "Жду сделку"
+    }
+  }
+}

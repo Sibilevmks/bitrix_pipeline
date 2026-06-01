@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "description": "Anonymized Bitrix field catalog for portfolio use.",
+    "source": "portfolio-placeholder"
+  },
+  "company": {
+    "fields": {
+      "inn": {
+        "code": "UF_FAKE_COMPANY_INN"
+      }
+    }
+  },
+  "lead": {
+    "fields": {
+      "inn": {
+        "code": "UF_FAKE_LEAD_INN"
+      },
+      "purchase_number": {
+        "code": "UF_FAKE_LEAD_PURCHASE_NUMBER"
+      },
+      "protocol_date": {
+        "code": "UF_FAKE_LEAD_PROTOCOL_DATE"
+      },
+      "company_manager": {
+        "code": "UF_FAKE_LEAD_COMPANY_MANAGER"
+      },
+      "purchase_link": {
+        "code": "UF_FAKE_LEAD_PURCHASE_LINK"
+      },
+      "customer": {
+        "code": "UF_FAKE_LEAD_CUSTOMER"
+      },
+      "purchase_object": {
+        "code": "UF_FAKE_LEAD_PURCHASE_OBJECT"
+      }
+    }
+  },
+  "deal": {
+    "fields": {
+      "kv": {
+        "code": "UF_FAKE_DEAL_KV"
+      },
+      "mop": {
+        "code": "UF_FAKE_DEAL_MOP"
+      },
+      "reason_close": {
+        "code": "UF_FAKE_DEAL_REASON_CLOSE"
+      },
+      "bank": {
+        "code": "UF_FAKE_DEAL_BANK"
+      },
+      "product_type": {
+        "code": "UF_FAKE_DEAL_PRODUCT_TYPE"
+      },
+      "inn": {
+        "code": "UF_FAKE_DEAL_INN"
+      },
+      "close_date": {
+        "code": "UF_FAKE_DEAL_CLOSE_DATE"
+      },
+      "mpb_transfer_date": {
+        "code": "UF_FAKE_DEAL_MPB_TRANSFER_DATE"
+      },
+      "approved_date": {
+        "code": "UF_FAKE_DEAL_APPROVED_DATE"
+      },
+      "mpb_work_date": {
+        "code": "UF_FAKE_DEAL_MPB_WORK_DATE"
+      },
+      "do_transfer_date": {
+        "code": "UF_FAKE_DEAL_DO_TRANSFER_DATE"
+      },
+      "docs_rework_date": {
+        "code": "UF_FAKE_DEAL_DOCS_REWORK_DATE"
+      },
+      "client_sign_date": {
+        "code": "UF_FAKE_DEAL_CLIENT_SIGN_DATE"
+      },
+      "banks_review_date": {
+        "code": "UF_FAKE_DEAL_BANKS_REVIEW_DATE"
+      },
+      "flag_special": {
+        "code": "UF_FAKE_DEAL_FLAG_SPECIAL"
+      }
+    }
+  }
+}

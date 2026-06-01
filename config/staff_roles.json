@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "description": "Anonymized staff role rules for portfolio use.",
+    "source": "portfolio-placeholder"
+  },
+  "department_priority_ids": [101, 108, 107, 105, 110],
+  "department_name_fallbacks": {
+    "101": "Руководство",
+    "105": "МОП (прямые)",
+    "107": "МПБ",
+    "108": "IT",
+    "110": "МОП (агенты)"
+  },
+  "sales_department_ids": [105, 110],
+  "include_sales_users_with_mpb_deals": true
+}
